@@ -1,0 +1,177 @@
+{
+    "coordinates":[
+        {
+    "country": "DE",
+    "name": "Hamburg",
+    "lat": "53.57532",
+    "lng": "10.01534",
+    "id":1,
+    "poster":     "This Nazi propaganda poster comes from Adolf Hitler's campaign to become Germany's supreme leader. The text reads, \"We will take the fate of the nation into our hands! Hitler will be Reich President!\""
+
+        },
+            
+        {
+    "country": "DE",
+    "name": "Berlin",
+    "lat": "52.52437",
+    "lng": "13.41053",
+    "id": 2,
+    "poster":    "In this Nazi fundraising poster, a member of the Hitler youth asks for money to build youth hostels and homes."
+
+        },
+        {
+    "country": "DE",
+    "name": "Berkheim",
+    "lat": "48.04263",
+    "lng": "10.08227",
+    "id":3,
+    "poster":    "The Nazis deemed swing and jazz \"degenerate music\" and tried to suppress them — although Germany did have one Nazi-approved, state-sponsored jazz band known as Charlie and His Orchestra."
+
+  },
+        {
+    "country": "DE",
+    "name": "Bergneustadt",
+    "lat": "51.02496",
+    "lng": "7.65599",
+    "id":4,
+    "poster":    "This Nazi propaganda poster reads, \"Behind the enemy powers: The Jews.\""
+  },
+        {
+    "country": "DE",
+    "name": "Berglern",
+    "lat": "48.38407",
+    "lng": "11.93012",
+    "id":5,
+    "poster":    "Here, Germany and its allies move against communism. The text reads, \"Europe Is Moving Forward.\""
+  },
+        {
+    "country": "DE",
+    "name": "Bergkamen",
+    "lat": "52.61633",
+    "lng": "5.64451",
+    "id":6,
+    "poster":    "This poster hopes to recruit men from the Nazi-occupied Netherlands to the Nazi army. The passionate message at the bottom reads, \"For your honour and conscience! Against the Bolshevism - the Waffen-SS calls you!\""
+  },
+        {
+    "country": "DE",
+    "name": "Bergheim",
+    "lat": "50.95572",
+    "lng": "6",
+    "id":7,
+    "poster":    "A German family salutes the German Imperial Railroad."
+  },
+        {
+    "country": "DE",
+    "name": "Bergen auf Rügen",
+    "lat": "54.41823",
+    "lng": "13.43349",
+    "id":8,
+    "poster":    "Here, a patriotic member of the Hitler Youth poses with the flag of the Nazi party. The text reads, \"German students fight for the Fuhrer and the people.\""
+  },
+          {
+    "country": "DE",
+    "name": "Baunach",
+    "lat": "49.98592",
+    "lng": "10.85179",
+    "id":9,
+    "poster":    "A German soldier smites a red dragon — the Soviet Union — with two bolts of lightening."
+  },
+         {
+    "country": "DE",
+    "name": "Baumschulenweg",
+    "lat": "50.46583",
+    "lng": "13.48523",
+    "id": 10,
+    "poster":    "This poster, which reads \"Jews are lice,\" was plastered across Poland, spreading fear that Jewish people carried typhus."
+  },
+         {
+    "country": "DE",
+    "name": "Bassum",
+    "lat": "52.85059",
+    "lng": "8.72791",
+    "id":11,
+    "poster":    "This poster encouraged young women to join the League of German Girls in the Hitler Youth."
+  },{
+    "country": "DE",
+    "name": "Auf der Horst",
+    "lat": "52.41943",
+    "lng": "9.60248",
+    "id":12,
+    "poster":    "A blonde German woman nurses her child against the backdrop of an idyllic farm. This poster was probably meant to promote the notion of the superiority of the Aryan race."
+  },
+  {
+    "country": "DE",
+    "name": "Dierkow-Neu",
+    "lat": "54.10571",
+    "lng": "12.16753",
+    "id":13,
+    "poster":    "A authoritative Adolf Hitler poses here, above text that reads \"One Nation, One Empire, One Leader.\""
+  },
+  {
+    "country": "DE",
+    "name": "Dierkow-West",
+    "lat": "54.10608",
+    "lng": "12.15041",
+    "id":14,
+    "poster":    "This surprisingly beautiful poster advertises \"Sports Day of the League of German Girls.\""
+
+  },
+  {
+    "country": "DE",
+    "name": "Solms",
+    "lat": "50.5362",
+    "lng": "9",
+    "id":15,
+    "poster":    "In this cartoon, Winston Churchill hugs a clawed Stalin in fear as a copy of the a Nazi newspaper blows in through an open window. President Roosevelt looks on from a picture hanging on the wall."
+  },
+  {
+    "country": "DE",
+    "name": "Röchling-Höhe",
+    "lat": "49.27102",
+    "lng": "6.83457",
+    "id":16,
+    "poster":    "This poster warns against using electricity at night, when British planes dropped bombs on Germany."
+  },
+  {
+    "country": "DE",
+    "name": "Luisenthal",
+    "lat": "49.24932",
+    "lng": "6.90057",
+    "id":17,
+    "poster":    "A German family is protected by the wings of an eagle, one of the symbols of the Nazi party. The text reads: \"The NSDAP protects the people. Your fellow comrades need your advice and help, so join the local party organization.\""
+  },
+  {
+    "country": "DE",
+    "name": "Westhagen",
+    "lat": "52.40425",
+    "lng": "10.73939",
+    "id":18,
+    "poster":    "This propaganda poster attempts to recruit young men to join the Waffen-SS, the armed wing of Nazi Germany's Schutzstaffel, or protective squadron. The text below says that any man over 17 can join."
+  },
+  {
+    "country": "DE",
+    "name": "Düsseldorf-Pempelfort",
+    "lat": "53.23812",
+    "lng": "6.78678",
+    "id":19,
+    "poster":    "This poster tells German women to protect their families by voting for Hitler."
+  },
+  {
+    "country": "DE",
+    "name": "Burglesum",
+    "lat": "55.16532",
+    "lng": "8.68873",
+    "id":20,
+    "poster":    "This is a poster for a film called the The Eternal Jew. The film was marketed as a documentary and depicted the Jewish people as manipulative and uncivilized."
+  },
+  {
+    "country": "DE",
+    "name": "Fronreute",
+    "lat": "47.87053",
+    "lng": "7.56944",
+    "id":21,
+    "poster":    "This poster depicts the Nazi triumph in the 1932 elections. The text reads, \"The People Vote Slate 1—National Socialists.\""
+  }
+        
+    ]
+}

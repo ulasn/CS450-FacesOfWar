@@ -1,0 +1,364 @@
+{
+"coordinates": [
+  {
+    "state":"Alaska",
+    "latitude":61.3850,
+    "longitude":-152.2683,
+	"id":11,
+	"poster":""
+  },
+  {
+    "state":"Alabama",
+    "latitude":32.7990,
+    "longitude":-86.8073,
+	"id":42,
+    "poster": ""
+  },
+  {
+    "state":"Arkansas",
+    "latitude":34.9513,
+    "longitude":-92.3809,
+	"id":43,
+	"poster":""
+
+  },
+  {
+    "state":"Arizona",
+    "latitude":33.7712,
+    "longitude":-111.3877,
+	"id":31,
+	"poster":    ""
+
+  },
+  {
+    "state":"California",
+    "latitude":36.1700,
+    "longitude":-119.7462,
+	"id":4,
+	"poster":    "\"Women - There's work to be done and a war to be won...Now!\" uses a cartoon design to show the many different employment opportunities for woman including riveting, working as a mechanic or even serving food. This poster was created by the US Employment Service, War Manpower Commission in 1944."
+
+  },
+  {
+    "state":"Colorado",
+    "latitude":39.0646,
+    "longitude":-105.3272,
+	"id":5,
+	"poster":    "\"This happens every 3 minutes\" according to official Army-Navy figures collected from August 1944 to February 1945. This is one of the more graphic wartime propaganda images. Rarely did American propaganda show battlefield casualties. The message stresses the harder you work, the less Americans die. This image of a fallen American soldier was created from an original Army Signal Corps photograph in 1945."
+
+  },
+  {
+    "state":"Connecticut",
+    "latitude":41.5834,
+    "longitude":-72.7622,
+	"id":32,
+	"poster": ""   
+
+  },
+  {
+    "state":"Delaware",
+    "latitude":39.3498,
+    "longitude":-75.5148,
+	"id":15,
+	"poster":	""
+
+
+  },
+  {
+    "state":"Florida",
+    "latitude":27.8333,
+    "longitude":-81.7170,
+	"id":49,
+	"poster":   "" 
+
+  },
+  {
+    "state":"Georgia",
+    "latitude":32.9866,
+    "longitude":-83.6487,
+	"id":12,
+	"poster":""
+
+  },
+  {
+    "state":"Hawaii",
+    "latitude":21.1098,
+    "longitude":-157.5311,
+	"id":50,
+	"poster":""
+  },
+  {
+    "state":"Iowa",
+    "latitude":42.0046,
+    "longitude":-93.2140,
+	"id":10,
+	"poster":"\"Together\" provides an image of British Commonwealth servicemen including Canadians, Indians, South Africans, and Australians. Its message is that all Commonwealth soldiers, despite their diverse backgrounds and differing military branches, are all necessary to achieve victory. This British poster was printed for Her Majesty’s Stationery Office by Lowe & Brydone Printers in London during World War II."
+
+  },
+  {
+    "state":"Idaho",
+    "latitude":44.2394,
+    "longitude":-114.5103,
+	"id":9,
+	"poster":"\"Twice a patriot!\" shows African American ex-soldier Obie Bartlett, who lost his left arm during the attack on Pearl Harbor, now working as a welder in a shipyard. Posters like this were displayed in African American communities across the United States, showing everyone’s crucial role in the war, despite skin color. Although the realities and opportunities for African Americans in the factories and on the front lines were very different than these idealized images, these posters were an effective recruitment tool. This American poster was produced in 1943."
+  },
+  {
+    "state":"Illinois",
+    "latitude":40.3363,
+    "longitude":-89.0022,
+	"id":13,
+	"poster":""
+  },
+  {
+    "state":"Indiana",
+    "latitude":39.8647,
+    "longitude":-86.2604,
+	"id":14,
+	"poster":""
+  },
+  {
+    "state":"Kansas",
+    "latitude":38.5111,
+    "longitude":-96.8005,
+	"id":7,
+	"poster":"\"Women in the war. We can't win without them\" provides an image of a woman riveting part of an AN-M26 Parachute flare. Many employment and recruitment posters like this one stressed the absolute need for women to fill the growing labor gap as many able-bodied men went off to war. This poster was produced by the War Manpower Commission in Washington, D.C. in 1942."
+  },
+  {
+    "state":"Kentucky",
+    "latitude":37.6690,
+    "longitude":-84.6514,
+	"id":16,
+	"poster":""
+  },
+  {
+    "state":"Louisiana",
+    "latitude":31.1801,
+    "longitude":-91.8749,
+	"id":17,
+	"poster":""
+  },
+  {
+    "state":"Massachusetts",
+    "latitude":42.2373,
+    "longitude":-71.5314,
+	"id":18,
+	"poster":""
+  },
+  {
+    "state":"Maryland",
+    "latitude":39.0724,
+    "longitude":-76.7902,
+	"id":19,
+	"poster":""
+  },
+  {
+    "state":"Maine",
+    "latitude":44.6074,
+    "longitude":-69.3977,
+	"id":20,
+	"poster":""
+  },
+  {
+    "state":"Michigan",
+    "latitude":43.3504,
+    "longitude":-84.5603,
+	"id":21,
+	"poster":""
+  },
+  {
+    "state":"Minnesota",
+    "latitude":45.7326,
+    "longitude":-93.9196,
+	"id":22,
+	"poster":""
+  },
+  {
+    "state":"Missouri",
+    "latitude":38.4623,
+    "longitude":-92.3020,
+	"id":23,
+	"poster":""
+  },
+  {
+    "state":"Mississippi",
+    "latitude":32.7673,
+    "longitude":-89.6812,
+	"id":24,
+	"poster":""
+  },
+  {
+    "state":"Montana",
+    "latitude":46.9048,
+    "longitude":-110.3261,
+	"id":25,
+	"poster":""
+  },
+  {
+    "state":"North Carolina",
+    "latitude":35.6411,
+    "longitude":-79.8431,
+	"id":26,
+	"poster":""
+  },
+  {
+    "state":"North Dakota",
+    "latitude":47.5362,
+    "longitude":-99.7930,
+	"id":27,
+	"poster":""
+  },
+  {
+    "state":"Nebraska",
+    "latitude":41.1289,
+    "longitude":-98.2883,
+	"id":28,
+	"poster":""
+  },
+  {
+    "state":"New Hampshire",
+    "latitude":43.4108,
+    "longitude":-71.5653,
+	"id":29,
+	"poster":""
+  },
+  {
+    "state":"New Jersey",
+    "latitude":40.3140,
+    "longitude":-74.5089,
+	"id":30,
+	"poster":""
+  },
+  {
+    "state":"New Mexico",
+    "latitude":34.8375,
+    "longitude":-106.2371,
+	"id":3,
+	"poster":"\"Buy that invasion bond!\" provides an image of the Normandy invasion scene, including different types of landing craft and aircraft painted with Normandy stripes. As the expenses of war mounted, the US Treasury Department launched an ambitious propaganda campaign stressing that war costs were a shared debt of the American public and that their contributions made an impact in impending battles. This poster was created by the artist R. Moore for the US Treasury in 1944."
+  },
+  {
+    "state":"Nevada",
+    "latitude":38.4199,
+    "longitude":-117.1219,
+	"id":6,
+	"poster":"\"Don’t let that shadow touch them\" provides an image of American children threatened by the shadow of a swastika. This poster hinted that Nazi presence on US soil could be a reality. The message is that that you can protect the innocent through the purchase of bonds. This poster was created by the artist Lawrence Boall Smith for the US Government Printing Office in 1942."
+  },
+  {
+    "state":"New York",
+    "latitude":42.1497,
+    "longitude":-74.9384,
+	"id":33,
+	"poster":""
+  },
+  {
+    "state":"Ohio",
+    "latitude":40.3736,
+    "longitude":-82.7755,
+	"id":34,
+	"poster":""
+  },
+  {
+    "state":"Oklahoma",
+    "latitude":35.5376,
+    "longitude":-96.9247,
+	"id":35,
+	"poster":""
+  },
+  {
+    "state":"Oregon",
+    "latitude":44.5672,
+    "longitude":-122.1269,
+	"id":36,
+	"poster":""
+  },
+  {
+    "state":"Pennsylvania",
+    "latitude":40.5773,
+    "longitude":-77.2640,
+	"id":37,
+	"poster":""
+  },
+  {
+    "state":"Rhode Island",
+    "latitude":41.6772,
+    "longitude":-71.5101,
+	"id":38,
+	"poster":""
+  },
+  {
+    "state":"South Carolina",
+    "latitude":33.8191,
+    "longitude":-80.9066,
+	"id":39,
+	"poster":""
+  },
+  {
+    "state":"South Dakota",
+    "latitude":44.2853,
+    "longitude":-99.4632,
+	"id":40,
+	"poster":""
+  },
+  {
+    "state":"Tennessee",
+    "latitude":35.7449,
+    "longitude":-86.7489,
+	"id":41,
+	"poster":""
+  },
+  {
+    "state":"Texas",
+    "latitude":31.1060,
+    "longitude":-97.6475,
+	"id":1,
+	"poster":""
+  },
+  {
+    "state":"Utah",
+    "latitude":40.1135,
+    "longitude":-111.8535,
+	"id":2,
+	"poster":"\"Get the Jap and get it over!\" offers an image of a ragged Nazi flag under a Japanese flag, suggesting that it is time for the Japanese nation to be defeated as well. This poster was produced by the US Employment Service, War Manpower Commission in 1945."
+  },
+  {
+    "state":"Virginia",
+    "latitude":37.7680,
+    "longitude":-78.2057,
+	"id":44,
+	"poster":""
+  },
+  {
+    "state":"Vermont",
+    "latitude":44.0407,
+    "longitude":-72.7093,
+	"id":45,
+	"poster":""
+  },
+  {
+    "state":"Washington",
+    "latitude":47.3917,
+    "longitude":-121.5708,
+	"id":46,
+	"poster":""
+  },
+  {
+    "state":"Wisconsin",
+    "latitude":44.2563,
+    "longitude":-89.6385,
+	"id":47,
+	"poster":""
+  },
+  {
+    "state":"West Virginia",
+    "latitude":38.4680,
+    "longitude":-80.9696,
+	"id":48,
+	"poster":""
+  },
+  {
+    "state":"Wyoming",
+    "latitude":42.7475,
+    "longitude":-107.2085,
+	"id":8,
+	"poster":"\"My Daddy is a hero! And you?\" provides an image of a Russian child holding an image of her Russian soldier and father. This piece utilizes the bandwagon tactic to play up the guilt if your child cannot say this about you. This British poster indicates through the English and Cyrillic languages used together that these two countries are Allies."
+  }
+]
+}

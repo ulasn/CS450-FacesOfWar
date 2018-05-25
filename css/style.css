@@ -1,0 +1,196 @@
+
+body{
+    background:#7F7979;
+    padding-left:275px;
+    margin:0;
+}
+
+@font-face {
+    font-family: "babas";
+    src: url("bebas.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "gara";
+    src: url("Garamond.ttf") format("truetype");
+}
+
+
+.customfont { 
+    font-family: "Bebas";
+}
+
+div#sidebar{
+   position:fixed;
+   height:100%;
+   width:275px; 
+   top:0;
+   left:0;
+   background:#524A42; 
+   
+}
+
+div#sidebar img{
+   left:10px;        
+}
+
+div#sidebar ul{
+    padding-top: 100px;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+div#sidebar li{
+    text-align: CENTER;
+}
+
+div#sidebar .facesofwar{
+    margin-right: 50px;
+}
+div#sidebar .facesofwar br{
+    line-height: 0px;
+}
+
+div#sidebar .facesofwar a{
+    color:#8B2727;
+     margin-right: 50px;
+}
+
+div#content{
+    background:#7F7979;
+    width:100%;
+    height:auto;
+}
+
+div#content .card{
+    background-color:rgba(113,119,083,0.7)!important;
+    color:#FAFFD4;
+    font-family: "gara";
+    border-radius: 0 !important;
+}
+
+div#content h3{
+    letter-spacing:6px!important;
+     font-family:'babas'; 
+    
+}
+
+div#content button{
+    border-radius:0;
+}
+
+.btn{
+    background-color: #717753;
+    border-color:##717753;
+    color: #FAFFD4;
+    font-family: "gara";
+}
+
+    svg{
+        background:#95A196;
+}
+    
+    
+    #map-holder {
+  width: auto;    /*85 percent of the screen*/
+  height: auto;
+  margin-top:-345px;
+  margin-left:-20px!important;
+}
+
+
+    div#resetbutton{
+        position:relative;
+        width:100px;
+        top:340px;
+        left:30px; 
+    }
+
+    div#buttons{
+        position: relative;
+        width:250px;
+        left: 85px;
+    top:312px;
+        
+    }
+
+    #byyear{
+    position: relative;
+        width: 100px;
+        left: 30px;
+    top: 1030px;
+    }
+
+    #allyear{
+    position: relative;
+        width: 100px;
+        left: 30px;
+    top: 1030px;
+    }
+
+    
+    div#holder{
+    position:relative;
+    top:975px;
+    left:400px;
+    width:500px;
+    }
+
+    div#holder svg{
+    background-color:rgba(113,119,083,0.0)!important;    
+    }
+    
+     div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: auto;					
+    height: auto;					
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font: 14px sans-serif;		
+    background: white;	
+    border: 0px;		
+    border-radius: 8px;
+    border-color: black;
+    pointer-events: none;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+}
+    div.tooltip strong{
+        font-size: 21px;
+    }
+
+
+
+a{
+    font-family:'babas';    
+    letter-spacing:3px!important;
+    font-size:23px!important;
+    color:#FAFFD4;
+    text-decoration:none!important; //95A196    
+}
+
+#myModal {
+    max-height: 100px;
+}
+
+.text-muted {
+  color: black;
+  text-align: letter-spacing: ;
+}
+
+.btn:hover{
+    background-color:#4D5139;
+}
+
+btn:focus {outline:0;}
+
+
+.lejant{
+    position:relative;
+    top:-160px;
+    left:1450px;
+}

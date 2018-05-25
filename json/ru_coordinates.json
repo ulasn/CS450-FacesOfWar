@@ -1,0 +1,453 @@
+{
+"coordinates": [
+    {
+    "country": "RU",
+    "name": "Nazar'yevo",
+    "lat": "54.67417",
+    "lng": "50.04028",
+	"id" : 1,
+	"poster":     "Long live Red Army of workers and peasants - the true guard of the Soviet borders!"
+  },
+  {
+    "country": "RU",
+    "name": "Navoloki",
+    "lat": "57.46572",
+    "lng": "49.96344",
+	"id" : 2,
+	"poster":     "On each and every attack our valorous Red Army will answer with three times more powerful blows!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Navlya",
+    "lat": "52.82544",
+    "lng": "48.4996",
+	"id" : 3,
+	"poster":     "Be a pilot, contribute to the power of the Air Force!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Navashino",
+    "lat": "55.5441",
+    "lng": "62.1968",
+	"id" : 4,
+	"poster":     "Long live powerful aviation of the socialist country!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Naurskaya",
+    "lat": "43.65075",
+    "lng": "45.31173",
+	"id" : 5,
+	"poster":     "If the war comes tomorrow..."
+
+  },
+  {
+    "country": "RU",
+    "name": "Alpatovo",
+    "lat": "43.7028",
+    "lng": "45.24154",
+	"id" : 6,
+	"poster":     "Komsomol member, be ready to protect USSR, learn how to shoot accurately!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Natyrbovo",
+    "lat": "44.73",
+    "lng": "40.62639",
+	"id" : 7,
+	"poster":     "From People's Commissar (Timoshenko) personal record"
+
+  },
+  {
+    "country": "RU",
+    "name": "Naryshkino",
+    "lat": "52.96778",
+    "lng": "46.72677",
+	"id" : 8,
+	"poster":     "Cut the enemy! (1939)."
+
+  },
+  {
+    "country": "RU",
+    "name": "Nar'yan-Mar",
+    "lat": "67.63869",
+    "lng": "53.00371",
+	"id" : 9,
+	"poster":     "Red Army is the loyal guard of the October Revolution's gains."
+
+  },
+  {
+    "country": "RU",
+    "name": "Nartkala",
+    "lat": "43.5575",
+    "lng": "43.85083",
+	"id" : 10,
+	"poster":     "Compulsory military education strengthens our defense!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Nartan",
+    "lat": "60.51083",
+    "lng": "65.69944",
+	"id" : 11,
+	"poster":     "Our cause is just, enemy will be crushed"
+
+  },
+  {
+    "country": "RU",
+    "name": "Narovchat",
+    "lat": "53.87654",
+    "lng": "62.69458",
+	"id" : 12,
+	"poster":     "For the Motherland, Honor and Freedom!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Naro-Fominsk",
+    "lat": "53.38752",
+    "lng": "36.73307",
+	"id" : 13,
+	"poster":     "Russian people will never fall to its knees"
+
+  },
+  {
+    "country": "RU",
+    "name": "Narimanov",
+    "lat": "46.6927",
+    "lng": "47.8498",
+	"id" : 14,
+	"poster":     "In the sky, on the ground and in the sea."
+
+  },
+  {
+    "country": "RU",
+    "name": "Nal’chik",
+    "lat": "60.49806",
+    "lng": "47.61889",
+	"id" : 15,
+	"poster":     "I swear to defeat the enemy."
+
+  },
+  {
+    "country": "RU",
+    "name": "Nakhabino",
+    "lat": "57.84854",
+    "lng": "37.17789",
+	"id" : 16,
+	"poster":     "Let's crush the enemy under avalanch of steel"
+
+  },
+  {
+    "country": "RU",
+    "name": "Nagutskoye",
+    "lat": "48.4415",
+    "lng": "42.8762",
+	"id" : 17,
+	"poster":     "Death to the Fashism"
+
+  },
+  {
+    "country": "RU",
+    "name": "Nagorsk",
+    "lat": "56.31722",
+    "lng": "52.80778",
+	"id" : 18,
+	"poster":     "Glory to the heroes of the Patriotic War! Glory to the Stalin's falcons!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Lakha Nëvre",
+    "lat": "58.62271",
+    "lng": "57.33969",
+	"id" : 19,
+	"poster":     "Soldiers of all nationalities, fight for Motherland and victory!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Nadvoitsy",
+    "lat": "63.86667",
+    "lng": "34.31667",
+	"id" : 20,
+	"poster":     "Be a hero!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Nadezhda",
+    "lat": "46.1",
+    "lng": "44.6",
+	"id" : 21,
+	"poster":     "Fight German animals! We can and must destroy Hitler's army."
+
+  },
+  {
+    "country": "RU",
+    "name": "Nachalovo",
+    "lat": "49.338",
+    "lng": "48.20128",
+	"id" : 22,
+	"poster":     "Death to the Fashist-German invaders"
+
+  },
+  {
+    "country": "RU",
+    "name": "Naberezhnyye Chelny",
+    "lat": "55.72545",
+    "lng": "60.41122",
+	"id" : 23,
+	"poster":     "When anti-tank gunner stands on the way, fashist tank will not pass!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Myurego",
+    "lat": "42.41087",
+    "lng": "47.69304",
+	"id" : 24,
+	"poster":     "The face of Hitlerism"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mytishchi",
+    "lat": "55.91163",
+    "lng": "37.73076",
+	"id" : 25,
+	"poster":     "Red Army's broom will sweep the enemy out!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Myshkin",
+    "lat": "52.78973",
+    "lng": "40.45448",
+	"id" : 26,
+	"poster":     "Glory to the Red Army!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Myatlevo",
+    "lat": "54.89693",
+    "lng": "35.67619",
+	"id" : 27,
+	"poster":     "Long live the gunners of the Red Army!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Myaksa",
+    "lat": "59.8889",
+    "lng": "40.1938",
+	"id" : 28,
+	"poster":     "Nothing will stop us! We are Russians, we will overcome! (A.Suvorov)"
+
+  },
+  {
+    "country": "RU",
+    "name": "Muyezerskiy",
+    "lat": "63.95758",
+    "lng": "31.98738",
+	"id" : 29,
+	"poster":     "Let's use all might of our weaponry against impudent enemy."
+
+  },
+  {
+    "country": "RU",
+    "name": "Mutsalaul",
+    "lat": "43.27548",
+    "lng": "48.73078",
+	"id" : 30,
+	"poster":     "Spade is a soldier's friend!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Muslyumovo",
+    "lat": "55.30333",
+    "lng": "53.19472",
+	"id" : 31,
+	"poster":     "Job well done!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murygino",
+    "lat": "58.73831",
+    "lng": "52.45822",
+	"id" : 32,
+	"poster":     "Fight like this: every bullet means an enemy killed"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murom",
+    "lat": "55.575",
+    "lng": "67.0426",
+	"id" : 33,
+	"poster":     "Put every bullet into the German"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murmino",
+    "lat": "54.6043",
+    "lng": "40.0549",
+	"id" : 34,
+	"poster":     "Fight like this: put every shell into the German tank"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murmashi",
+    "lat": "68.81542",
+    "lng": "32.81147",
+	"id" : 35,
+	"poster":     "Our new victories will glorify our banners!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murmansk",
+    "lat": "65.97917",
+    "lng": "33.09251",
+	"id" : 36,
+	"poster":     "Motherland is calling you!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murino",
+    "lat": "60.04796",
+    "lng": "30.45204",
+	"id" : 37,
+	"poster":     "For the Motherland!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Murashi",
+    "lat": "59.3999",
+    "lng": "48.9615",
+	"id" : 38,
+	"poster":     "Beat them hard, my son! "
+
+  },
+  {
+    "country": "RU",
+    "name": "Muranovo",
+    "lat": "52.18333",
+    "lng": "37.9",
+	"id" : 39,
+	"poster":     "Our cause is just, victory will be ours!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mumra",
+    "lat": "49.77251",
+    "lng": "49.65398",
+	"id" : 40,
+	"poster":     "For defense of the Motherland "
+
+  },
+  {
+    "country": "RU",
+    "name": "Mullovka",
+    "lat": "56.2",
+    "lng": "47.4",
+	"id" : 41,
+	"poster":     "Join people's home guard!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mulino",
+    "lat": "56.28923",
+    "lng": "40.92005",
+	"id" : 42,
+	"poster":     "Young people, fight for the Motherland!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mukhtolovo",
+    "lat": "55.46751",
+    "lng": "43.19973",
+	"id" : 43,
+	"poster":     "A commissar is a father and soul of his unit."
+
+  },
+  {
+    "country": "RU",
+    "name": "Mugi",
+    "lat": "63.29944",
+    "lng": "47.42077",
+	"id" : 44,
+	"poster":     "Under Lenin's banner, let's go forward for the Motherland, for our victory! "
+
+  },
+  {
+    "country": "RU",
+    "name": "Muchkapskiy",
+    "lat": "62.85133",
+    "lng": "42.47175",
+	"id" : 45,
+	"poster":     "Stalin is a greatness of our time! Stalin is a banner of our victories!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mtsensk",
+    "lat": "63.27657",
+    "lng": "36.57334",
+	"id" : 46,
+	"poster":     "Under Lenin's banner, forward to victory!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mstikhino",
+    "lat": "64.55947",
+    "lng": "36.12777",
+	"id" : 47,
+	"poster":     "\"Spirit of the great Lenin and his victorios banner inspire us to fight Patriotic War.\" (Stalin)"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mstera",
+    "lat": "65.37889",
+    "lng": "41.92",
+	"id" : 48,
+	"poster":     "Let's go forward, destroy German invaiders and throw them out from our Motherland!"
+
+  },
+  {
+    "country": "RU",
+    "name": "Mrakovo",
+    "lat": "54.71611",
+    "lng": "64.62444",
+	"id" : 49,
+	"poster":     "Communists and Komsomol members, be in the first line of the fighters against German-Fashist bloody dogs"
+
+  },
+  
+  {
+    "country": "RU",
+    "name": "Moscow",
+    "lat": "57.75222",
+    "lng": "65.61556",
+	"id" : 50,
+	"poster":     "Komsomol member, be a Hero of the Great Patriotic War"
+
+  }]
+  }
